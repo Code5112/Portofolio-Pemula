@@ -28,4 +28,8 @@ Akan berubah menjadi seperti ini:
 
 ## Demo
 
-Jika ingin melihat terlebih dahulu templatenya, bisa lihat [disini](https://abinoval.github.io/bee-template/pages/portfolio/)
+Jika ingin melihat terlebih dahulu templatenya, bisa lihat [disini]
+
+Code Ini juga dioptimalisasi dengan AI Granite Code
+
+![Gambar Optimalisasi Code dengan Ai](asset/img/OptimasasiAI_IBM.pnq)
