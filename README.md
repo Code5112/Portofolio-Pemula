@@ -32,4 +32,4 @@ Jika ingin melihat terlebih dahulu templatenya, bisa lihat [disini]
 
 Code Ini juga dioptimalisasi dengan AI Granite Code
 
-![Gambar Optimalisasi Code dengan Ai](asset/img/dokumen.png.pnq)
+![Gambar Optimalisasi Code dengan Ai](asset/img/dokumen.pnq)
